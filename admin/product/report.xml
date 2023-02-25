@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<clients>
+  <clients>
+    <id>1</id>
+    <firstname>John</firstname>
+    <lastname>Smith</lastname>
+    <contact>09123456789</contact>
+    <email>jsmith@sample.com</email>
+    <password>1254737c076cf867dc53d60a0364f38e</password>
+    <Address>Sample Address</Address>
+    <date>2021-06-21 16:00:23</date>
+  </clients>
+  <clients>
+    <id>3</id>
+    <firstname>gee</firstname>
+    <lastname>adikari</lastname>
+    <contact>0714923327</contact>
+    <email>kapilainduruwage@gmail.com</email>
+    <password>827ccb0eea8a706c4c34a16891f84e7b</password>
+    <Address>kekirawa</Address>
+    <date>2022-06-20 10:54:12</date>
+  </clients>
+  <clients>
+    <id>5</id>
+    <firstname>geema</firstname>
+    <lastname>Induruwage</lastname>
+    <contact>0714923327</contact>
+    <email>geemainduruwage@gmail.com</email>
+    <password>827ccb0eea8a706c4c34a16891f84e7b</password>
+    <Address>No:19/7,Adnivas Road,Periyaulla,Negombo</Address>
+    <date>2022-06-21 10:49:58</date>
+  </clients>
+</clients>
